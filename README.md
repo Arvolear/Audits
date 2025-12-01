@@ -6,6 +6,7 @@ The compilation of audits and internal reviews that I've done over the years.
 
 |         Project        |         Date         |       Findings       |
 |------------------------|----------------------|----------------------|
+| [Grail](https://github.com/Arvolear/Audits/Grail/Grail_report_FINAL.pdf) | October 2025 | 1 low, 3 note, 2 opt |
 | [Q ID](https://github.com/Arvolear/Audits/Q/Q_ID_report.pdf) | July 2023 | 1 crit, 1 low, 3 note, 1 opt |
 | [PollenDAO Shorts and Leagues](https://github.com/Arvolear/Audits/PollenDAO/PollenDAO_shorts_leagues.pdf) | August 2022 | 1 high, 4 note |
 | [PollenDAO DAO](https://github.com/Arvolear/Audits/PollenDAO/PollenDAO.pdf) | June 2022 | 1 crit, 7 high, 10 med, 9 low, 9 note |
